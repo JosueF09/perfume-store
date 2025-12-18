@@ -5,9 +5,8 @@ export const PRODUCTS = [
     brand: "AURA",
     price: 120,
     gender: "Masculino",
-    description: "Una fragancia intensa con notas de cuero y maderas nobles.",
-    notes: { top: "Bergamota", heart: "Cuero", base: "Sándalo" },
-    images: ["https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=500"]
+    description: "Intensidad de cuero y maderas nobles.",
+    images: ["https://images.unsplash.com/photo-1523293182086-7651a899d37f?q=80&w=600"]
   },
   {
     id: 'fleur-soie',
@@ -15,9 +14,8 @@ export const PRODUCTS = [
     brand: "LUMIERE",
     price: 95,
     gender: "Femenino",
-    description: "Elegancia floral fresca con toques de jazmín.",
-    notes: { top: "Rosa", heart: "Jazmín", base: "Almizcle" },
-    images: ["https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=500"]
+    description: "Elegancia floral fresca con jazmín.",
+    images: ["https://images.unsplash.com/photo-1541643600914-78b084683601?q=80&w=600"]
   },
   {
     id: 'ocean-mist',
@@ -25,9 +23,8 @@ export const PRODUCTS = [
     brand: "ELEMENTS",
     price: 85,
     gender: "Masculino",
-    description: "Frescura marina pura para el hombre moderno.",
-    notes: { top: "Sal de mar", heart: "Algas", base: "Ámbar" },
-    images: ["https://images.unsplash.com/photo-1594035910387-fea47794261f?q=80&w=500"]
+    description: "Frescura marina pura.",
+    images: ["https://images.unsplash.com/photo-1688413580186-fdec38c39553?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
   },
   {
     id: 'velvet-rose',
@@ -35,9 +32,8 @@ export const PRODUCTS = [
     brand: "LUMIERE",
     price: 110,
     gender: "Femenino",
-    description: "Rosas aterciopeladas con un fondo dulce de vainilla.",
-    notes: { top: "Peonía", heart: "Rosa Damascena", base: "Vainilla" },
-    images: ["https://images.unsplash.com/photo-1590736704728-f4730bb30770?q=80&w=500"]
+    description: "Rosas y vainilla dulce.",
+    images: ["https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?q=80&w=600"]
   },
   {
     id: 'amber-wood',
@@ -45,9 +41,8 @@ export const PRODUCTS = [
     brand: "AURA",
     price: 135,
     gender: "Masculino",
-    description: "Poderoso, cálido y profundamente amaderado.",
-    notes: { top: "Pimienta", heart: "Ámbar", base: "Cedro" },
-    images: ["https://images.unsplash.com/photo-1523293182086-7651a899d37f?q=80&w=500"]
+    description: "Cálido y amaderado.",
+    images: ["https://images.unsplash.com/photo-1590736704728-f4730bb30770?q=80&w=600"]
   },
   {
     id: 'citrus-bloom',
@@ -55,9 +50,8 @@ export const PRODUCTS = [
     brand: "ELEMENTS",
     price: 75,
     gender: "Femenino",
-    description: "Una explosión de energía cítrica y flores blancas.",
-    notes: { top: "Limón", heart: "Azahar", base: "Patchouli" },
-    images: ["https://images.unsplash.com/photo-1585232351009-aa87416fca90?q=80&w=500"]
+    description: "Explosión cítrica y flores blancas.",
+    images: ["https://images.unsplash.com/photo-1623085080484-623ff2873922?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
   },
   {
     id: 'midnight-oud',
@@ -65,9 +59,8 @@ export const PRODUCTS = [
     brand: "AURA",
     price: 150,
     gender: "Masculino",
-    description: "Misterio oriental con notas de oud ahumado.",
-    notes: { top: "Azafrán", heart: "Oud", base: "Incienso" },
-    images: ["https://images.unsplash.com/photo-1557170334-a7c3c467b930?q=80&w=500"]
+    description: "Misterio oriental con oud.",
+    images: ["https://images.unsplash.com/photo-1585232351009-aa87416fca90?q=80&w=600"]
   },
   {
     id: 'lavender-sky',
@@ -75,9 +68,8 @@ export const PRODUCTS = [
     brand: "ELEMENTS",
     price: 65,
     gender: "Femenino",
-    description: "Relajante lavanda silvestre y vainilla suave.",
-    notes: { top: "Lavanda", heart: "Lirio", base: "Vainilla" },
-    images: ["https://images.unsplash.com/photo-1615033830209-64696086f626?q=80&w=500"]
+    description: "Lavanda silvestre relajante.",
+    images: ["https://images.unsplash.com/photo-1645105234123-1ace9e851f72?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
   },
   {
     id: 'silver-birch',
@@ -85,9 +77,8 @@ export const PRODUCTS = [
     brand: "LUMIERE",
     price: 90,
     gender: "Masculino",
-    description: "Limpio, nítido y refrescante como un bosque invernal.",
-    notes: { top: "Menta", heart: "Abedul", base: "Musgo" },
-    images: ["https://images.unsplash.com/photo-1588405865223-99933088924b?q=80&w=500"]
+    description: "Limpio y refrescante.",
+    images: ["https://images.unsplash.com/photo-1594035910387-fea47794261f?q=80&w=600"]
   },
   {
     id: 'golden-honey',
@@ -95,8 +86,7 @@ export const PRODUCTS = [
     brand: "AURA",
     price: 115,
     gender: "Femenino",
-    description: "Dulzura dorada con un toque de especias exóticas.",
-    notes: { top: "Miel", heart: "Canela", base: "Haba Tonka" },
-    images: ["https://images.unsplash.com/photo-1563170339-244d767b34e5?q=80&w=500"]
+    description: "Dulzura dorada con especias.",
+    images: ["https://images.unsplash.com/photo-1728842961375-edd04a6780b0?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"]
   }
 ];
